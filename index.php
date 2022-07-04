@@ -17,16 +17,5 @@
 		<img src="./mouse.png" width="150">
 	</p>
 
-	<?php
-		$result = "";
-		
-		for ($i=0; $i < 10; $i++) { 
-			$result .= "x";
-		}
-		echo $result;
-
-
-	?>
-
 </body>
 </html>
